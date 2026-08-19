@@ -1,0 +1,66 @@
+[
+  {
+    "type": "Plastic",
+    "description": "Includes bottles, packaging, wrappers, containers, and other synthetic polymer items used in everyday products.",
+    "recyclable": true,
+    "recycle_details": "Rinse containers, remove caps/labels if required locally, and place in the dry/recyclable waste bin. Look for the resin code (1-7) on the item - PET (1) and HDPE (2) are widely recyclable.",
+    "recommendations": "Prefer reusable bottles and bags over single-use plastics. Avoid buying over-packaged products.",
+    "suggestions": "Start a small collection bin at home for clean plastics and drop them at a nearby recycling center weekly."
+  },
+  {
+    "type": "Paper & Cardboard",
+    "description": "Newspapers, magazines, office paper, cartons, and cardboard boxes.",
+    "recyclable": true,
+    "recycle_details": "Flatten boxes, keep paper dry and free of food residue, and place in the dry/recyclable bin. Avoid recycling paper contaminated with grease or wax.",
+    "recommendations": "Go digital where possible to reduce paper use, and reuse boxes for storage or shipping before recycling.",
+    "suggestions": "Shred sensitive documents and compost shredded paper if it's uncoated."
+  },
+  {
+    "type": "Organic / Food Waste",
+    "description": "Fruit and vegetable peels, leftover food, tea bags, eggshells, and garden waste.",
+    "recyclable": false,
+    "recycle_details": "Not recyclable in the traditional sense, but it is compostable. Separate into a wet-waste bin and send to a composting facility or home compost pit.",
+    "recommendations": "Plan meals to reduce food waste and store food properly to extend its shelf life.",
+    "suggestions": "Set up a small kitchen compost bin or vermicompost unit to turn scraps into fertilizer for plants."
+  },
+  {
+    "type": "E-Waste",
+    "description": "Old phones, chargers, batteries, computers, and other electronic devices or accessories.",
+    "recyclable": true,
+    "recycle_details": "Never place in regular trash. Drop off at an authorized e-waste collection center or manufacturer take-back program, since these items contain hazardous materials like lead and mercury.",
+    "recommendations": "Repair devices when possible instead of replacing them, and donate working electronics.",
+    "suggestions": "Keep a dedicated box at home for dead batteries and small electronics until you can drop them off safely."
+  },
+  {
+    "type": "Glass",
+    "description": "Bottles, jars, and other glass containers.",
+    "recyclable": true,
+    "recycle_details": "Rinse thoroughly, remove lids, and place in the glass recycling bin. Broken glass should be wrapped safely before disposal.",
+    "recommendations": "Reuse glass jars for storage instead of discarding them.",
+    "suggestions": "Buy products in glass packaging over plastic when available, since glass is infinitely recyclable."
+  },
+  {
+    "type": "Metal",
+    "description": "Aluminum cans, tin cans, foil, and small metal scraps.",
+    "recyclable": true,
+    "recycle_details": "Rinse cans, crush if possible to save space, and place in the dry/recyclable bin. Scrap metal can also be sold to local scrap dealers.",
+    "recommendations": "Choose products in aluminum or metal packaging as they have high recycling value.",
+    "suggestions": "Collect aluminum foil and cans separately since they can be recycled indefinitely without quality loss."
+  },
+  {
+    "type": "Hazardous Waste",
+    "description": "Paints, solvents, pesticides, cleaning chemicals, and medical waste like expired medicines.",
+    "recyclable": false,
+    "recycle_details": "Do not mix with household trash. Take to a certified hazardous waste disposal facility or a pharmacy take-back program for medicines.",
+    "recommendations": "Buy only the quantity you need to avoid leftover hazardous material, and store safely away from children.",
+    "suggestions": "Check with your local municipality for scheduled hazardous waste collection drives."
+  },
+  {
+    "type": "Textile Waste",
+    "description": "Old clothes, shoes, and fabric scraps.",
+    "recyclable": true,
+    "recycle_details": "Donate wearable clothes, and take damaged textiles to textile recycling bins or drop-off centers where they can be turned into rags or insulation material.",
+    "recommendations": "Buy fewer, higher-quality garments and repair clothing instead of discarding it.",
+    "suggestions": "Organize or participate in a clothing swap with friends or community groups."
+  }
+]
